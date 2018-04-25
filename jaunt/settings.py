@@ -25,7 +25,8 @@ SECRET_KEY = 'j82q=)^js0g56g-08_^2ybf4i+l#^^cww6u_%0sa-k3rx%4!&m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'Felger.pythonanywhere.com']
+ALLOWED_HOSTS = [u'Felger.pythonanywhere.com',
+                 u'127.0.0.1']
 
 
 # Application definition
